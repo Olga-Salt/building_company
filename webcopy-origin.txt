@@ -1,196 +1,198 @@
 Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
-File Name: D:\copySites\kiev-remont.in.ua\ajax\libs\jquery\3.2.1\jquery.min.js
+File Name: D:\projects\building_company\ajax\libs\jquery\3.2.1\jquery.min.js
 Content Type: text/javascript
 
 Uri: https://cdn.jsdelivr.net/gh/michalsnik/aos@2.1.1/dist/aos.css
-File Name: D:\copySites\kiev-remont.in.ua\gh\michalsnik\aos@2.1.1\dist\aos.css
+File Name: D:\projects\building_company\gh\michalsnik\aos@2.1.1\dist\aos.css
 Content Type: text/css
 
 Uri: https://cdn.jsdelivr.net/gh/michalsnik/aos@2.1.1/dist/aos.js
-File Name: D:\copySites\kiev-remont.in.ua\gh\michalsnik\aos@2.1.1\dist\aos.js
+File Name: D:\projects\building_company\gh\michalsnik\aos@2.1.1\dist\aos.js
 Content Type: application/javascript
 
 Uri: https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/css/iziModal.min.css
-File Name: D:\copySites\kiev-remont.in.ua\ajax\libs\izimodal\1.5.1\css\iziModal.min.css
+File Name: D:\projects\building_company\ajax\libs\izimodal\1.5.1\css\iziModal.min.css
 Content Type: text/css
 
 Uri: https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js
-File Name: D:\copySites\kiev-remont.in.ua\ajax\libs\izimodal\1.5.1\js\iziModal.min.js
+File Name: D:\projects\building_company\ajax\libs\izimodal\1.5.1\js\iziModal.min.js
 Content Type: application/javascript
 
 Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.2/js/swiper.min.js
-File Name: D:\copySites\kiev-remont.in.ua\ajax\libs\Swiper\4.2.2\js\swiper.min.js
+File Name: D:\projects\building_company\ajax\libs\Swiper\4.2.2\js\swiper.min.js
 Content Type: application/javascript
 
 Uri: https://fonts.googleapis.com/css?family=Roboto:400,700&subset=cyrillic
-File Name: D:\copySites\kiev-remont.in.ua\css-1
+File Name: D:\projects\building_company\css-1
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
-File Name: D:\copySites\kiev-remont.in.ua\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: D:\projects\building_company\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
-File Name: D:\copySites\kiev-remont.in.ua\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: D:\projects\building_company\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
 Content Type: font/ttf
 
-Uri: https://kiev-remont.in.ua/
-File Name: D:\copySites\kiev-remont.in.ua\index.htm
+Uri: https://olga-salt.github.io/building_company/
+File Name: D:\projects\building_company\index.htm
 Content Type: text/html
 
-Uri: https://kiev-remont.in.ua/css/main1.min.css
-File Name: D:\copySites\kiev-remont.in.ua\css\main1.min.css
+Uri: https://olga-salt.github.io/building_company/css/main1.min.css
+File Name: D:\projects\building_company\css\main1.min.css
 Content Type: text/css
 
-Uri: https://kiev-remont.in.ua/img/bgi2.png
-File Name: D:\copySites\kiev-remont.in.ua\img\bgi2.png
+Uri: https://olga-salt.github.io/building_company/img/bgi2.png
+File Name: D:\projects\building_company\img\bgi2.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/bgi6.png
-File Name: D:\copySites\kiev-remont.in.ua\img\bgi6.png
+Uri: https://olga-salt.github.io/building_company/img/bgi6.png
+File Name: D:\projects\building_company\img\bgi6.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/capital-rep.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\capital-rep.svg
+Uri: https://olga-salt.github.io/building_company/img/capital-rep.svg
+File Name: D:\projects\building_company\img\capital-rep.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/check.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\check.svg
+Uri: https://olga-salt.github.io/building_company/img/check.svg
+File Name: D:\projects\building_company\img\check.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/chi-logo-white.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\chi-logo-white.svg
+Uri: https://olga-salt.github.io/building_company/img/chi-logo-white.svg
+File Name: D:\projects\building_company\img\chi-logo-white.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/cosmetic-rep.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\cosmetic-rep.svg
+Uri: https://olga-salt.github.io/building_company/img/cosmetic-rep.svg
+File Name: D:\projects\building_company\img\cosmetic-rep.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/design.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\design.svg
+Uri: https://olga-salt.github.io/building_company/img/design.svg
+File Name: D:\projects\building_company\img\design.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/examples/01.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\01.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/01.jpg
+File Name: D:\projects\building_company\img\examples\01.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/010.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\010.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/010.jpg
+File Name: D:\projects\building_company\img\examples\010.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/011.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\011.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/011.jpg
+File Name: D:\projects\building_company\img\examples\011.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/012.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\012.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/012.jpg
+File Name: D:\projects\building_company\img\examples\012.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/013.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\013.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/013.jpg
+File Name: D:\projects\building_company\img\examples\013.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/014.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\014.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/014.jpg
+File Name: D:\projects\building_company\img\examples\014.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/02.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\02.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/02.jpg
+File Name: D:\projects\building_company\img\examples\02.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/03.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\03.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/03.jpg
+File Name: D:\projects\building_company\img\examples\03.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/04.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\04.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/04.jpg
+File Name: D:\projects\building_company\img\examples\04.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/05.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\05.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/05.jpg
+File Name: D:\projects\building_company\img\examples\05.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/06.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\06.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/06.jpg
+File Name: D:\projects\building_company\img\examples\06.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/07.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\07.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/07.jpg
+File Name: D:\projects\building_company\img\examples\07.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/08.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\08.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/08.jpg
+File Name: D:\projects\building_company\img\examples\08.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/examples/09.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\examples\09.jpg
+Uri: https://olga-salt.github.io/building_company/img/examples/09.jpg
+File Name: D:\projects\building_company\img\examples\09.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/favicon/apple-touch-icon.png
-File Name: D:\copySites\kiev-remont.in.ua\img\favicon\apple-touch-icon.png
+Uri: https://olga-salt.github.io/building_company/img/favicon/apple-touch-icon.png
+File Name: D:\projects\building_company\img\favicon\apple-touch-icon.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/favicon/favicon-16x16.png
-File Name: D:\copySites\kiev-remont.in.ua\img\favicon\favicon-16x16.png
+Uri: https://olga-salt.github.io/building_company/img/favicon/favicon-16x16.png
+File Name: D:\projects\building_company\img\favicon\favicon-16x16.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/favicon/favicon-32x32.png
-File Name: D:\copySites\kiev-remont.in.ua\img\favicon\favicon-32x32.png
+Uri: https://olga-salt.github.io/building_company/img/favicon/favicon-32x32.png
+File Name: D:\projects\building_company\img\favicon\favicon-32x32.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/favicon/favicon.ico
-File Name: D:\copySites\kiev-remont.in.ua\img\favicon\favicon.ico
+Uri: https://olga-salt.github.io/building_company/img/favicon/favicon.ico
+File Name: D:\projects\building_company\img\favicon\favicon.ico
 Content Type: image/x-icon
 
-Uri: https://kiev-remont.in.ua/img/favicon/safari-pinned-tab.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\favicon\safari-pinned-tab.svg
+Uri: https://olga-salt.github.io/building_company/img/favicon/safari-pinned-tab.svg
+File Name: D:\projects\building_company\img\favicon\safari-pinned-tab.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/favicon/site.webmanifest
-File Name: D:\copySites\kiev-remont.in.ua\img\favicon\site.webmanifest
+Uri: https://olga-salt.github.io/building_company/img/favicon/site.webmanifest
+File Name: D:\projects\building_company\img\favicon\site.webmanifest
 Content Type: 
 
-Uri: https://kiev-remont.in.ua/img/home-master.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\home-master.svg
+Uri: https://olga-salt.github.io/building_company/img/home-master.svg
+File Name: D:\projects\building_company\img\home-master.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/main-fon.jpg
-File Name: D:\copySites\kiev-remont.in.ua\img\main-fon.jpg
+Uri: https://olga-salt.github.io/building_company/img/main-fon.jpg
+File Name: D:\projects\building_company\img\main-fon.jpg
 Content Type: image/jpeg
 
-Uri: https://kiev-remont.in.ua/img/master.png
-File Name: D:\copySites\kiev-remont.in.ua\img\master.png
+Uri: https://olga-salt.github.io/building_company/img/master.png
+File Name: D:\projects\building_company\img\master.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/phone.png
-File Name: D:\copySites\kiev-remont.in.ua\img\phone.png
+Uri: https://olga-salt.github.io/building_company/img/phone.png
+File Name: D:\projects\building_company\img\phone.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/promo/3.png
-File Name: D:\copySites\kiev-remont.in.ua\img\promo\3.png
+Uri: https://olga-salt.github.io/building_company/img/promo/3.png
+File Name: D:\projects\building_company\img\promo\3.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/promo/4.png
-File Name: D:\copySites\kiev-remont.in.ua\img\promo\4.png
+Uri: https://olga-salt.github.io/building_company/img/promo/4.png
+File Name: D:\projects\building_company\img\promo\4.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/promo/6.png
-File Name: D:\copySites\kiev-remont.in.ua\img\promo\6.png
+Uri: https://olga-salt.github.io/building_company/img/promo/6.png
+File Name: D:\projects\building_company\img\promo\6.png
 Content Type: image/png
 
-Uri: https://kiev-remont.in.ua/img/promo/7.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\promo\7.svg
+Uri: https://olga-salt.github.io/building_company/img/promo/7.svg
+File Name: D:\projects\building_company\img\promo\7.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/promo/8.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\promo\8.svg
+Uri: https://olga-salt.github.io/building_company/img/promo/8.svg
+File Name: D:\projects\building_company\img\promo\8.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/img/rent.svg
-File Name: D:\copySites\kiev-remont.in.ua\img\rent.svg
+Uri: https://olga-salt.github.io/building_company/img/rent.svg
+File Name: D:\projects\building_company\img\rent.svg
 Content Type: image/svg+xml
 
-Uri: https://kiev-remont.in.ua/js/scripts.min.js
-File Name: D:\copySites\kiev-remont.in.ua\js\scripts.min.js
+Uri: https://olga-salt.github.io/building_company/js/scripts.min.js
+File Name: D:\projects\building_company\js\scripts.min.js
 Content Type: application/javascript
 
+D:\projects\building_company
+https://olga-salt.github.io/building_company/
