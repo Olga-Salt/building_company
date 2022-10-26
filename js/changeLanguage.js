@@ -616,3 +616,46 @@ function changeLanguage() {
   return lang;
 }
 changeLanguage();
+
+// const form = document.querySelector(".order__form");
+// console.log(form);
+// form.addEventListener("submit", sendToTelegram);
+
+// function sendToTelegram(e) {
+//   e.preventDefault();
+
+//   var botId = "5483292384:AAExW1r6lVibSF5YKeu0FZISilOJlB7t2R4";
+//   var chatId = "463150434";
+
+//   const {
+//     elements: { name, email },
+//   } = e.currentTarget;
+
+//   console.log(name.value, email.value);
+
+//   var response =
+//     "Заявка с сайта" +
+//     "\n" +
+//     "----------------" +
+//     "\n" +
+//     "Name: " +
+//     name.value +
+//     "\n" +
+//     "Email: " +
+//     email.value;
+//   console.log(response);
+
+//   fetch(
+//     "https://api.telegram.org/bot" + botId + "/sendMessage?chat_id=" + chatId,
+//     {
+//       method: "post",
+//       payload: {
+//         chat_id: chatId,
+//         parse_mode: "HTML",
+//         text: response,
+//       },
+//     }
+//   );
+// }
+
+// sendToTelegram();
