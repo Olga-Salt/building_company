@@ -1694,12 +1694,18 @@ form .error-message {
   flex-direction: column;
   margin: 0 10px;
   text-align: center;
+  width: 250px;
 }
 
-@media only screen and (max-width: 820px) {
+@media only screen and (min-width: 768px) {
   .header__tel {
-    width: 250px;
-    line-height: 1.2;
+    text-align: end;
+  }
+}
+
+@media only screen and (min-width: 1051px) {
+  .header__tel {
+    width: 350px;
   }
 }
 
@@ -1824,7 +1830,7 @@ form .error-message {
   position: relative;
   color: #fff;
   text-decoration: none;
-  line-height: 50px;
+  /* line-height: 50px; */
 }
 
 @media only screen and (max-width: 820px) {
@@ -1879,11 +1885,16 @@ form .error-message {
   font-weight: 700;
 }
 
-@media only screen and (max-width: 820px) {
+@media only screen and (max-width: 1027px) {
   .header__menu__container ul a {
     font-size: 18px;
   }
 }
+/* @media only screen and (max-width: 820px) {
+  .header__menu__container ul a {
+    font-size: 18px;
+  }
+} */
 
 .header__menu__container ul li {
   list-style: none;
@@ -2012,7 +2023,7 @@ form .error-message {
   .cover__box {
     width: 100%;
     float: none;
-    padding: 170px 20px 0 20px;
+    padding: 197px 20px 0 20px;
   }
 }
 
