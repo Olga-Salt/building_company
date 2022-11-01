@@ -2022,7 +2022,7 @@ form .error-message {
 
 .cover__box {
   float: right;
-  padding-top: 230px;
+  padding-top: 196px;
   padding-right: 40px;
   width: 570px;
 }
@@ -2032,12 +2032,17 @@ form .error-message {
     width: 470px;
   }
 }
+@media only screen and (min-width: 1051px) {
+  .cover__box {
+    padding-top: 206px;
+  }
+}
 
 @media only screen and (max-width: 767px) {
   .cover__box {
     width: 100%;
     float: none;
-    padding: 197px 20px 0 20px;
+    padding: 196px 20px 0 20px;
   }
 }
 

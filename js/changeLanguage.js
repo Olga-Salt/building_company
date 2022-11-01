@@ -84,10 +84,10 @@ const dictionary = {
     de: "Renovierung der Wohnungen",
   },
   cover__form__title: {
-    ru: "Задать вопрос:",
-    en: "Ask a Question:",
-    ua: "Задати питання:",
-    de: "Eine Frage stellen:",
+    ru: "Оставь заявку и получи бесплатную оценку:",
+    en: "Leave a request and get a free estimate:",
+    ua: "Залиш заявку та отримай безкоштовну оцінку:",
+    de: "Hinterlassen Sie eine Anfrage und erhalten Sie einen kostenlosen Kostenvoranschlag:",
   },
   submit: {
     ru: "ОТПРАВИТЬ",
