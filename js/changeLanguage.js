@@ -68,7 +68,7 @@ const dictionary = {
   "services-disign": {
     ru: "Дизайн и обстановка",
     en: "Design and furnishing",
-    ua: "Капітальний ремонт",
+    ua: "Дизайн та обстановка",
     de: "Gestaltung und Einrichtung",
   },
   "services-home": {
