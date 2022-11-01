@@ -511,10 +511,10 @@ const dictionary = {
     de: "Komplexe Renovierung mit Sanierung, Fußboden aus keramischen Granitfliesen mit Heizung, zu streichende Wände, Türen zum Unterputzeinbau, zu streichende Gipskartondecke mit verdecktem Gesims und Einbauleuchten, Panoramafenster.",
   },
   desc__Sabi: {
-    ru: "Cтиль минимализм с элементами декора, декор стен и потолка, паркет, гипсокартонные котоба со встроенными светильниками. Двери-купе скрытого монтажа.",
-    en: "Minimalist style with decorative elements, wall and ceiling decor, parquet, plasterboard kotoba with built-in lights. Sliding doors of the hidden installation.",
-    ua: "Стиль мінімалізм з елементами декору, декор стін та стелі, паркет, гіпсокартонні котоба із вбудованими світильниками. Двері-купе прихованого монтажу.",
-    de: "Minimalistischer Stil mit dekorativen Elementen, Wand- und Deckendekor, Parkett, Gipskarton-Kotoba mit eingebauten Leuchten. Schiebetüren der versteckten Installation.",
+    ru: "Cтиль минимализм с элементами декора, декор стен и потолка, паркет, гипсокартонные короба со встроенными светильниками. Двери-купе скрытого монтажа.",
+    en: "Minimalist style with decor elements, wall and ceiling decor, parquet, plasterboard boxes with built-in lights. Sliding doors of the hidden installation.",
+    ua: "Стиль мінімалізм з елементами декору, декор стін та стелі, паркет, гіпсокартонні короби із вбудованими світильниками. Двері-купе прихованого монтажу.",
+    de: "Minimalistischer Stil mit Dekorelementen, Wand- und Deckendekor, Parkett, Gipskartonkästen mit eingebauten Leuchten. Schiebetüren der versteckten Installation.",
   },
   "examples-walls": {
     ru: "Перепланировка, теплый пол, встроенная мебель, натяжные потолки с теневым профилем, дизайнерская игра света.",
