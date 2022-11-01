@@ -77,12 +77,6 @@ const dictionary = {
     ua: "Домашній майстер",
     de: "Hausmeister",
   },
-  "services-rent": {
-    ru: "Аренда и прокат инструментов",
-    en: "Rent and tools rental",
-    ua: "Оренда та прокат інструментів",
-    de: "Miete und Werkzeugverleih",
-  },
   cover__title: {
     ru: "Ремонт квартир",
     en: "Apartments renovation",
